@@ -39,7 +39,9 @@ The objective of this task is to complete:-
 - IDE Installation on Ubuntu – x86
 - IDE Installation on Windows – x86
 - ESDK Code Download and flash
-  
+
+#### Note: run _sudo apt install diffstat gawk g++ gcc_ before downloading the eSDK
+
 #### Testing and Feedback 
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
@@ -51,6 +53,10 @@ The objective of this task is to complete:-
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
 
 ### Task 3: Customize existing Sample App.
+
+#### Note: Before importing a sample app for customization, run the following two commands
+#### &nbsp;&nbsp;&nbsp; 1) git config --global user.email <"Your email ID">
+#### &nbsp;&nbsp;&nbsp; 2) git config --global user.name <"Your Name">
 
 The objective of this task is to Customize existing Sample App using IDE. It subtasks involves changes like updating model path, labels path, 
 constants or properties of any element in sample app. It involves below steps:-
