@@ -39,6 +39,8 @@ The objective of this task is to complete:-
 - IDE Installation on Ubuntu – x86
 - IDE Installation on Windows – x86
 - ESDK Code Download and flash
+
+Note: run _sudo apt install diffstat gawk_ in your terminal before downloading the eSDK
   
 #### Testing and Feedback 
 - Test the application on the RB3 Gen2 and share your experience/feedback in the excel.
